@@ -1,0 +1,104 @@
+body
+{
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+header
+{
+  background-color: rgb(93,43,78); 
+  
+}
+header h1
+{
+  font-size: 3em;
+  font-weight: bold;
+  color: white;
+  padding-left: 80px;
+  padding-bottom: 30px;
+  
+}
+.nav
+{
+  background-color: #000;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid white;
+ 
+  
+}
+ul.nav
+{
+  list-style-type: none;
+  padding-left: 0;
+  padding-margin: 0;
+  background-color: #000;
+  
+ 
+  
+}
+.nav li
+{
+  display: inline;
+  
+}
+ .nav a
+{
+  height: 1.25em;
+  display: inline-block;
+  border-right: 1px solid white;
+  border-bottom: none;
+  padding: 5px 15px 5px 15px;
+  background-color: black;
+  text-decoration: none;
+  color:white;
+  
+}
+
+
+
+.sidebar1
+{
+  float:left;
+  width: 25%;
+  
+  
+  
+}
+
+.main
+{
+  margin-left: 27%;
+  margin-right: 27%;
+  border-right: 1px dashed black;
+  border-left: 1px dashed black;
+  margin-top: -30px;
+  padding: 10px;
+  
+  
+  
+  
+  
+}
+.sidebar2
+{
+  float: right;
+  width: 25%;
+}
+footer
+{
+  background-color: #000;
+  color: white;
+  padding-left: 80px;
+  padding-top: 5px;
+  font-size: 12px;
+  padding-bottom: 20px;
+  
+  
+}
+footer p 
+{
+  margin:0;
+}
+
+  
+  
+
